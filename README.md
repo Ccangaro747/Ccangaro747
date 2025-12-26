@@ -26,7 +26,12 @@
 
 ---
 
-### Personal stats
+<h3 align="center">Personal stats</h3>
 
-![GitHub contribution streak](https://streak-stats.demolab.com/?user=Ccangaro747&theme=radical)
-
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Ccangaro747&theme=radical"
+    width="600"
+    alt="GitHub contribution streak"
+  />
+</div>
