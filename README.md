@@ -28,8 +28,5 @@
 
 ### Personal stats
 
-<p align="center">
-
 ![GitHub contribution streak](https://streak-stats.demolab.com/?user=Ccangaro747&theme=radical)
 
-</p>
